@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Kwak_Ihn_Jung&fontSize=80&section=header)
-<br>This is profile
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&fontSize=80&section=header)
 ===============
 
 ----------------
